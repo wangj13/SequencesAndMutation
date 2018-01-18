@@ -17,7 +17,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # ----------------------------------------------------------------------
-# TODO: 2. SKIM the program below and RUN it.
+# DONE: 2. SKIM the program below and RUN it.
 #
 #   Then look more closely at the CODE for:
 #     -- find_example1
